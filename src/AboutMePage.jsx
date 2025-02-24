@@ -115,9 +115,9 @@ function AboutMePage() {
           >
             I&apos;m Raslen, a web developer from Tunisia with a passion for
             creating modern and engaging websites. I&apos;m currently expanding
-            my skills by learning React, and I&apos;m always looking for new
+            my skills by learning NodeJs and ExpressJs, and I&apos;m always looking for new
             ways to improve and stay up-to-date in the ever-evolving world of
-            web development. My goal is to become a full-stack developer and
+            web development. My goal is to become a professional full-stack developer and
             contribute to building innovative and user-friendly web experiences.
           </AboutMeParagraph>{' '}
         </AboutMe>
