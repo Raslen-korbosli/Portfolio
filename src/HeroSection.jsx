@@ -124,8 +124,7 @@ function HeroSection() {
             }}
           >
             <H1 className="">
-              Front End React{' '}
-              <span className="text-[#148bfbdb]"> Developer</span>{' '}
+              Full Stuck <span className="text-[#148bfbdb]"> Developer</span>{' '}
             </H1>{' '}
             <p className="dark:text-neutral-300">
               Hi, Im Raslen Korbosli, 20 Years Old From Tunisia ,A passionate
